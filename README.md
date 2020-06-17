@@ -1,2 +1,2 @@
-Developed Calculator in the javascript oriented object course
+Developed Calculator in the javascript object-oriented course
 
